@@ -1,0 +1,5 @@
+# > HBO NOW
+USER-AGENT,HBO%20NOW*,GlobalMedia
+DOMAIN-SUFFIX,hbo.com,GlobalMedia
+DOMAIN-SUFFIX,hbogo.com,GlobalMedia
+DOMAIN-SUFFIX,hbonow.com,GlobalMedia
