@@ -1,0 +1,15 @@
+# > HBO GO HKG
+USER-AGENT,HBO%20GO%20PROD%20HKG*,GlobalMedia
+DOMAIN-SUFFIX,hbogoasia.com,GlobalMedia
+DOMAIN-SUFFIX,hbogoasia.hk,GlobalMedia
+DOMAIN,bcbolthboa-a.akamaihd.net,GlobalMedia
+DOMAIN,players.brightcove.net,GlobalMedia
+DOMAIN,s3-ap-southeast-1.amazonaws.com,GlobalMedia
+DOMAIN,dai3fd1oh325y.cloudfront.net,GlobalMedia
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,GlobalMedia
+DOMAIN,hboasia1-i.akamaihd.net,GlobalMedia
+DOMAIN,hboasia2-i.akamaihd.net,GlobalMedia
+DOMAIN,hboasia3-i.akamaihd.net,GlobalMedia
+DOMAIN,hboasia4-i.akamaihd.net,GlobalMedia
+DOMAIN,hboasia5-i.akamaihd.net,GlobalMedia
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,GlobalMedia
