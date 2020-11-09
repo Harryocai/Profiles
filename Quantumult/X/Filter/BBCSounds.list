@@ -1,0 +1,13 @@
+# > BBC Sounds
+USER-AGENT,BBCSounds*,GlobalMedia
+DOMAIN-KEYWORD,bbcfmt,GlobalMedia
+DOMAIN,aod-dash-uk-live.akamaized.net,GlobalMedia
+DOMAIN,aod-hls-uk-live.akamaized.net,GlobalMedia
+DOMAIN,vod-dash-uk-live.akamaized.net,GlobalMedia
+DOMAIN,vod-thumb-uk-live.akamaized.net,GlobalMedia
+DOMAIN-SUFFIX,bbc.co,GlobalMedia
+DOMAIN-SUFFIX,bbc.co.uk,GlobalMedia
+DOMAIN-SUFFIX,bbc.com,GlobalMedia
+DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,GlobalMedia
+DOMAIN-SUFFIX,bbci.co,GlobalMedia
+DOMAIN-SUFFIX,bbci.co.uk,GlobalMedia
