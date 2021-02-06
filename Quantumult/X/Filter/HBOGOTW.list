@@ -1,0 +1,7 @@
+# > HBO NOW & HBO GO
+# - USER-AGENT,HBO%20NOW*,GlobalTV
+- DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,GlobalTV
+- DOMAIN-SUFFIX,hbo.com,GlobalTV
+- DOMAIN-SUFFIX,hbogo.com,GlobalTV
+- DOMAIN-SUFFIX,hbonow.com,GlobalTV
+- DOMAIN-SUFFIX,hbomax.com,GlobalTV
