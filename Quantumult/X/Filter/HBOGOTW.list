@@ -1,7 +1,10 @@
-# > HBO NOW & HBO GO
-# - USER-AGENT,HBO%20NOW*,GlobalTV
-- DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,GlobalTV
-- DOMAIN-SUFFIX,hbo.com,GlobalTV
-- DOMAIN-SUFFIX,hbogo.com,GlobalTV
-- DOMAIN-SUFFIX,hbonow.com,GlobalTV
-- DOMAIN-SUFFIX,hbomax.com,GlobalTV
+# > HBO GO TW
+USER-AGENT,HBO%20GO%20PROD*,GlobalMedia
+DOMAIN-KEYWORD,hbogoasia,GlobalMedia
+DOMAIN-SUFFIX,hboasia.com,GlobalMedia
+DOMAIN-SUFFIX,hbogoasia.com,GlobalMedia
+DOMAIN-SUFFIX,hbogoasia.tw,GlobalMedia
+DOMAIN,hbolb.onwardsmg.com,GlobalMedia
+DOMAIN,hbounify-prod.evergent.com,GlobalMedia
+DOMAIN,bcbolthboa-a.akamaihd.net,GlobalMedia
+DOMAIN,dai3fd1oh325y.cloudfront.net,GlobalMedia
