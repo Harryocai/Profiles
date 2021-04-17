@@ -3,3 +3,6 @@ USER-AGENT,HBO%20NOW*,GlobalMedia
 DOMAIN-SUFFIX,hbo.com,GlobalMedia
 DOMAIN-SUFFIX,hbogo.com,GlobalMedia
 DOMAIN-SUFFIX,hbonow.com,GlobalMedia
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,GlobalMedia
+DOMAIN-SUFFIX,hbomax.com,GlobalMedia
+DOMAIN-SUFFIX,hbomaxcdn.com,GlobalMedia
