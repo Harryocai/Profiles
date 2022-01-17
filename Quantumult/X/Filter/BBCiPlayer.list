@@ -1,6 +1,5 @@
 # > BBC iPlayer
 
-DOMAIN-KEYWORD,bbcfmt,BBC iPlayer
 DOMAIN,aod-dash-uk-live.akamaized.net,BBC iPlayer
 DOMAIN,aod-hls-uk-live.akamaized.net,BBC iPlayer
 DOMAIN,vod-dash-uk-live.akamaized.net,BBC iPlayer
