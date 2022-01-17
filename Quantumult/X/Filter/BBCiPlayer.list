@@ -1,5 +1,5 @@
 # > BBC iPlayer
-USER-AGENT,BBCiPlayer*,BBC iPlayer
+
 DOMAIN-KEYWORD,bbcfmt,BBC iPlayer
 DOMAIN,aod-dash-uk-live.akamaized.net,BBC iPlayer
 DOMAIN,aod-hls-uk-live.akamaized.net,BBC iPlayer
@@ -11,3 +11,31 @@ DOMAIN-SUFFIX,bbc.com,BBC iPlayer
 DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,BBC iPlayer
 DOMAIN-SUFFIX,bbci.co,BBC iPlayer
 DOMAIN-SUFFIX,bbci.co.uk,BBC iPlayer
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.in
+DOMAIN-SUFFIX,bbc.net.uk
+DOMAIN-SUFFIX,bbcchinese.com
+DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
+DOMAIN-SUFFIX,bbci.co
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbcmedia.co.uk
+DOMAIN-SUFFIX,bbcverticals.com
+DOMAIN-SUFFIX,bidi.net.uk
+DOMAIN,aod-dash-uk-live.akamaized.net
+DOMAIN,aod-hls-uk-live.akamaized.net
+DOMAIN,vod-dash-uk-live.akamaized.net
+DOMAIN,vod-dash-uk-live.bbcfmt.hs.llnwd.net
+DOMAIN,vod-dash-ww-live.akamaized.net
+DOMAIN,vod-dash-ww-live.bbcfmt.s.llnwi.net
+DOMAIN,vod-hls-uk-live.akamaized.net
+DOMAIN,vod-sub-uk-live.akamaized.net
+DOMAIN,vod-thumb-uk-live.akamaized.net
+DOMAIN,vod-thumb-uk-live.bbcfmt.hs.llnwd.net
+DOMAIN,vod-thumb-ww-live.akamaized.net
+DOMAIN,vod-thumb-ww-live.bbcfmt.s.llnwi.net
